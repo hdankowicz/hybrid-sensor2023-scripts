@@ -10,7 +10,7 @@ This repository contains:
 
 - `coco_2020Mar22`: March 22, 2020, release of COCO 
   [sourceforge.net/cocotools](https://sourceforge.net/projects/cocotools/)
-  used for demos
+  used for scripts
 - `add_recording.m`: COCO-compatible utility for recording Newton iterates
 - `hybridsensor_delay.m`: COCO-compatible zero problem for actuator with constant delay
 - `hybridsensor_PD.m`: COCO-compatible zero problem for actuator with feedback
